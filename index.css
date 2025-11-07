@@ -1,0 +1,11 @@
+/* Minimal placeholder styles; in production, import Tailwind or your own CSS framework */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f3f4f6;
+  color: #1f2937;
+}
+button {
+  cursor: pointer;
+}
